@@ -64,7 +64,7 @@ The dashboard includes the following key sections:
 
 📂**Project Structure**
 📁 Vrinda-Store-Annual-Report
-![Vrinda Store Dashboard](dashboard.png)
+![Vrinda Store Dashboard](vrinda-dashboard.png)
  
  👩‍💻 **Author**
 Shubhangi P. Nawale
