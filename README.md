@@ -34,7 +34,7 @@ The dashboard provides insights into sales performance, customer behavior, order
 - ✅ **Business Recommendation** – Target women customers aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh by running ads, offers, and discount coupons on Amazon, Flipkart, and Myntra
 
 ## 📊 Dashboard Preview
-![Vrinda Dashboard](./vrinda-dashboard.png)
+![Vrinda Dashboard](vrinda-dashborad.png)
 
 ## 👩‍💻 Author
 Shubhangi P. Nawale  
