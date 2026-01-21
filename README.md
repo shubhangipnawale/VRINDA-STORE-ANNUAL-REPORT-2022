@@ -65,7 +65,7 @@ The dashboard includes the following key sections:
 📂**Project Structure**
 📁 Vrinda-Store-Annual-Report
 ## 📊 Dashboard Preview
-![Vrinda Store Dashboard](vrindra-dashboard.png)
+![Vrinda Store Dashboard](vrinda-dashboard.png)
 
  
  👩‍💻 **Author**
