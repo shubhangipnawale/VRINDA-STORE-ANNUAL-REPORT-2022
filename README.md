@@ -62,8 +62,6 @@ The dashboard includes the following key sections:
 🎯 To improve Vrinda Store sales:
 -Target women customers aged 30–49 years living in Maharashtra, Karnataka, and Uttar Pradesh by running ads, offers, and discount coupons on Amazon, Flipkart, and Myntra.
 
-📂**Project Structure**
-📁 Vrinda-Store-Annual-Report
 ## 📊 Dashboard Preview
 ![Vrinda Store Dashboard](vrinda-dashboard.png)
 
